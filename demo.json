@@ -1,0 +1,194 @@
+{
+  "category": [
+    {
+      "catcode": "cat001",
+      "name": "Lip Care",
+      "status": "1",
+      "image": "/cat001",
+      "product": [
+        {
+          "product_id": "lip001",
+          "name": "Ghee Infused Lip Butter",
+          "hero_section": {
+            "collection": "Heritage Collection",
+            "title": "Ghee Infused Lip Butter",
+            "short_description": "Enriched with natural oil and Vitamin E. No added preservative and artificial colours or flavor.",
+            "rating": "4.8",
+            "reviews": "214 reviews",
+            "net_quantity": "10 gms",
+            "hero_ingredients": [
+              "Ghee",
+              "Rosehip seed oil",
+              "Jojoba oil",
+              "Beeswax",
+              "Shea butter"
+            ],
+            "suitability": "For dry lips"
+          },
+          "story_section": {
+            "heading": "Pure ritual, honest formulation.",
+            "description": "Enriched with natural oil and Vitamin E. No added preservative and artificial colours or flavor.",
+            "claim": "Dermatologically Tested Claim",
+            "main_benefits": [
+              "Moisturises lips, heals cracked lips",
+              "Provides a smooth base and acts as lip sleeping mask"
+            ],
+            "benefits_list": [
+              "Moisturises lip, heal cracked lips",
+              "Chemical free, provides a smooth base",
+              "Removes pigmentation",
+              "Enhances natural lip colour",
+              "Protects against sun damage"
+            ],
+            "suitability": ["For pigmented and dry and chapped lips"],
+            "safety_warnings": [
+              "Patch test mandatory for natural products too"
+            ],
+            "storage_instructions": ["Store in dry place"],
+            "how_to_use": ["Best to apply in the night"]
+          }
+        },
+        {
+          "product_id": "lip002",
+          "name": "Strawberry Lip Balm",
+          "hero_section": {
+            "collection": "Heritage Collection",
+            "title": "Strawberry Lip Balm",
+            "short_description": "Enriched with natural oil and Vitamin E. No added preservative and artificial colours or flavor.",
+            "rating": "4.8",
+            "reviews": "214 reviews",
+            "net_quantity": "10 gms",
+            "hero_ingredients": [
+              "Cocoa butter",
+              "Coconut oil",
+              "Jojoba oil",
+              "Natural strawberry flavour",
+              "Vitamin E oil"
+            ],
+            "suitability": "For dry lips"
+          },
+          "story_section": {
+            "heading": "Pure ritual, honest formulation.",
+            "description": "Enriched with natural oil and Vitamin E. No added preservative and artificial colours or flavor.",
+            "claim": "Dermatologically Tested Claim",
+            "main_benefits": [
+              "Moisturise lips, heals cracked lips",
+              "Provides a smooth base and acts as a sun protection"
+            ],
+            "benefits_list": [
+              "Moisturises lip, heal cracked lips",
+              "Removes pigmentation",
+              "Enhances natural lip colour",
+              "Protects against sun damage, Chemical free",
+              "Provides a smooth base"
+            ],
+            "suitability": ["For pigmented and dry and chapped lips"],
+            "safety_warnings": [
+              "Patch test mandatory for natural products too"
+            ],
+            "storage_instructions": ["Store in dry place"],
+            "how_to_use": [
+              "Apply required amount of balm in lips whenever required. Good for daily usage."
+            ]
+          }
+        },
+        {
+          "product_id": "lip003",
+          "name": "Beetroot Lip Balm",
+          "hero_section": {
+            "collection": "Heritage Collection",
+            "title": "Beetroot Lip Balm",
+            "short_description": "Enriched with natural oil and Vitamin E. No added preservative and artificial colours or flavor.",
+            "rating": "4.8",
+            "reviews": "214 reviews",
+            "net_quantity": "10 gms",
+            "hero_ingredients": [
+              "Beetroot Powder",
+              "Cocoa butter",
+              "Coconut oil",
+              "Jojoba oil",
+              "Natural plant based colour",
+              "Vitamin E oil"
+            ],
+            "suitability": "For dry lips"
+          },
+          "story_section": {
+            "heading": "Pure ritual, honest formulation.",
+            "description": "Enriched with natural oil and Vitamin E. No added preservative and artificial colours or flavor.",
+            "claim": "Dermatologically Tested Claim",
+            "main_benefits": [
+              "Provides natural pigment, heals cracked lips",
+              "Provides a smooth base and acts as a sun protection"
+            ],
+            "benefits_list": [
+              "Moisturises lip, heal cracked lips",
+              "Removes pigmentation",
+              "Enhances natural lip colour",
+              "Protects against sun damage, Chemical free",
+              "Provides a smooth base"
+            ],
+            "suitability": ["For pigmented and dry and chapped lips"],
+            "safety_warnings": [
+              "Patch test mandatory for natural products too"
+            ],
+            "storage_instructions": ["Store in dry place"],
+            "how_to_use": [
+              "Apply required amount of balm in lips whenever required. Good for daily usage."
+            ]
+          }
+        },
+        {
+          "product_id": "lip004",
+          "name": "Manjista Lip Balm",
+          "hero_section": {
+            "collection": "Heritage Collection",
+            "title": "Manjista Lip Balm",
+            "short_description": "Enriched with natural oil and Vitamin E. No added preservative and artificial colours or flavor.",
+            "rating": "4.8",
+            "reviews": "214 reviews",
+            "net_quantity": "10 gms",
+            "hero_ingredients": [
+              "Manjista Powder",
+              "Coconut oil",
+              "Jojoba oil",
+              "Manjistha powder",
+              "Cocoa butter",
+              "Vitamin E oil"
+            ],
+            "suitability": "For dry lips"
+          },
+          "story_section": {
+            "heading": "Pure ritual, honest formulation.",
+            "description": "Enriched with natural oil and Vitamin E. No added preservative and artificial colours or flavor.",
+            "claim": "Dermatologically Tested Claim",
+            "main_benefits": [
+              "Provides natural pigment, heals cracked lips",
+              "Provides a smooth base and acts as a sun protection"
+            ],
+            "benefits_list": [
+              "Moisturises lip, heal cracked lips",
+              "Removes pigmentation",
+              "Enhances natural lip colour",
+              "Protects against sun damage, Chemical free",
+              "Provides a smooth base"
+            ],
+            "suitability": ["For pigmented and dry and chapped lips"],
+            "safety_warnings": [
+              "Patch test mandatory for natural products too"
+            ],
+            "storage_instructions": ["Store in dry place"],
+            "how_to_use": [
+              "Apply required amount of balm in lips whenever required. Good for daily usage"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "catcode": "cat002",
+      "name": "Lip Care",
+      "status": "1",
+      "image": "/cat001"
+    }
+  ]
+}
