@@ -13,7 +13,7 @@ import app from './src/app.js';
 import connectDB from './src/config/db.js';
 
 // Connect to MongoDB
-// connectDB();
+connectDB();
 
 const PORT = process.env.PORT || 4000;
 

@@ -1,0 +1,850 @@
+[
+  {
+    "product_id": "lip001",
+    "catcode": "cat001",
+    "name": "Ghee Infused Lip Butter",
+    "image": "ghee-lip-butter.png",
+    "hero_section": {
+      "collection": "Heritage Collection",
+      "title": "Ghee Infused Lip Butter",
+      "short_description": "Enriched with natural oil and Vitamin E. No added preservative and artificial colours or flavor.",
+      "rating": "4.8",
+      "reviews": "214 reviews",
+      "net_quantity": "10 gms",
+      "hero_ingredients": [
+        "Ghee",
+        "Rosehip seed oil",
+        "Jojoba oil",
+        "Beeswax",
+        "Shea butter"
+      ],
+      "suitability": "For dry lips"
+    },
+    "story_section": {
+      "heading": "Pure ritual, honest formulation.",
+      "description": "Enriched with natural oil and Vitamin E. No added preservative and artificial colours or flavor.",
+      "claim": "Dermatologically Tested Claim",
+      "main_benefits": [
+        "Moisturises lips, heals cracked lips",
+        "Provides a smooth base and acts as lip sleeping mask"
+      ],
+      "benefits_list": [
+        "Moisturises lip, heal cracked lips",
+        "Chemical free, provides a smooth base",
+        "Removes pigmentation",
+        "Enhances natural lip colour",
+        "Protects against sun damage"
+      ],
+      "suitability": [
+        "For pigmented and dry and chapped lips"
+      ],
+      "safety_warnings": [
+        "Patch test mandatory for natural products too"
+      ],
+      "storage_instructions": [
+        "Store in dry place"
+      ],
+      "how_to_use": [
+        "Best to apply in the night"
+      ]
+    }
+  },
+  {
+    "product_id": "lip002",
+    "catcode": "cat001",
+    "name": "Strawberry Lip Balm",
+    "image": "strawberry-lip-balm.png",
+    "hero_section": {
+      "collection": "Heritage Collection",
+      "title": "Strawberry Lip Balm",
+      "short_description": "Enriched with natural oil and Vitamin E. No added preservative and artificial colours or flavor.",
+      "rating": "4.8",
+      "reviews": "214 reviews",
+      "net_quantity": "10 gms",
+      "hero_ingredients": [
+        "Cocoa butter",
+        "Coconut oil",
+        "Jojoba oil",
+        "Natural strawberry flavour",
+        "Vitamin E oil"
+      ],
+      "suitability": "For dry lips"
+    },
+    "story_section": {
+      "heading": "Pure ritual, honest formulation.",
+      "description": "Enriched with natural oil and Vitamin E. No added preservative and artificial colours or flavor.",
+      "claim": "Dermatologically Tested Claim",
+      "main_benefits": [
+        "Moisturise lips, heals cracked lips",
+        "Provides a smooth base and acts as a sun protection"
+      ],
+      "benefits_list": [
+        "Moisturises lip, heal cracked lips",
+        "Removes pigmentation",
+        "Enhances natural lip colour",
+        "Protects against sun damage, Chemical free",
+        "Provides a smooth base"
+      ],
+      "suitability": [
+        "For pigmented and dry and chapped lips"
+      ],
+      "safety_warnings": [
+        "Patch test mandatory for natural products too"
+      ],
+      "storage_instructions": [
+        "Store in dry place"
+      ],
+      "how_to_use": [
+        "Apply required amount of balm in lips whenever required. Good for daily usage."
+      ]
+    }
+  },
+  {
+    "product_id": "lip003",
+    "catcode": "cat001",
+    "name": "Beetroot Lip Balm",
+    "image": "beetroot-lip-balm.png",
+    "hero_section": {
+      "collection": "Heritage Collection",
+      "title": "Beetroot Lip Balm",
+      "short_description": "Enriched with natural oil and Vitamin E. No added preservative and artificial colours or flavor.",
+      "rating": "4.8",
+      "reviews": "214 reviews",
+      "net_quantity": "10 gms",
+      "hero_ingredients": [
+        "Beetroot Powder",
+        "Cocoa butter",
+        "Coconut oil",
+        "Jojoba oil",
+        "Natural plant based colour",
+        "Vitamin E oil"
+      ],
+      "suitability": "For dry lips"
+    },
+    "story_section": {
+      "heading": "Pure ritual, honest formulation.",
+      "description": "Enriched with natural oil and Vitamin E. No added preservative and artificial colours or flavor.",
+      "claim": "Dermatologically Tested Claim",
+      "main_benefits": [
+        "Provides natural pigment, heals cracked lips",
+        "Provides a smooth base and acts as a sun protection"
+      ],
+      "benefits_list": [
+        "Moisturises lip, heal cracked lips",
+        "Removes pigmentation",
+        "Enhances natural lip colour",
+        "Protects against sun damage, Chemical free",
+        "Provides a smooth base"
+      ],
+      "suitability": [
+        "For pigmented and dry and chapped lips"
+      ],
+      "safety_warnings": [
+        "Patch test mandatory for natural products too"
+      ],
+      "storage_instructions": [
+        "Store in dry place"
+      ],
+      "how_to_use": [
+        "Apply required amount of balm in lips whenever required. Good for daily usage."
+      ]
+    }
+  },
+  {
+    "product_id": "lip004",
+    "catcode": "cat001",
+    "name": "Manjista Lip Balm",
+    "image": "manjista-lip-balm.png",
+    "hero_section": {
+      "collection": "Heritage Collection",
+      "title": "Manjista Lip Balm",
+      "short_description": "Enriched with natural oil and Vitamin E. No added preservative and artificial colours or flavor.",
+      "rating": "4.8",
+      "reviews": "214 reviews",
+      "net_quantity": "10 gms",
+      "hero_ingredients": [
+        "Manjista Powder",
+        "Coconut oil",
+        "Jojoba oil",
+        "Manjistha powder",
+        "Cocoa butter",
+        "Vitamin E oil"
+      ],
+      "suitability": "For dry lips"
+    },
+    "story_section": {
+      "heading": "Pure ritual, honest formulation.",
+      "description": "Enriched with natural oil and Vitamin E. No added preservative and artificial colours or flavor.",
+      "claim": "Dermatologically Tested Claim",
+      "main_benefits": [
+        "Provides natural pigment, heals cracked lips",
+        "Provides a smooth base and acts as a sun protection"
+      ],
+      "benefits_list": [
+        "Moisturises lip, heal cracked lips",
+        "Removes pigmentation",
+        "Enhances natural lip colour",
+        "Protects against sun damage, Chemical free",
+        "Provides a smooth base"
+      ],
+      "suitability": [
+        "For pigmented and dry and chapped lips"
+      ],
+      "safety_warnings": [
+        "Patch test mandatory for natural products too"
+      ],
+      "storage_instructions": [
+        "Store in dry place"
+      ],
+      "how_to_use": [
+        "Apply required amount of balm in lips whenever required. Good for daily usage"
+      ]
+    }
+  },
+  {
+    "product_id": "lip005",
+    "catcode": "cat001",
+    "name": "Natural Lipstick",
+    "image": "natural-lipstick.png",
+    "variants": [
+      "Pink",
+      "Red",
+      "Brown",
+      "Maroon"
+    ],
+    "hero_section": {
+      "collection": "Heritage Collection",
+      "title": "Natural Lipstick",
+      "short_description": "Castor oil is considered as gold standard base for natural lipsticks. It provides natural shine and good for lip health and colour performance. Since this is chemical free natural mineral based pigments are used and vitamin e oil acts as natural preservative.",
+      "rating": "4.8",
+      "reviews": "186 reviews",
+      "net_quantity": "10 gms",
+      "hero_ingredients": [
+        "Manjista Powder",
+        "Coconut oil",
+        "Jojoba oil",
+        "Manjistha powder",
+        "Cocoa Butter",
+        "Vitamin E oil"
+      ],
+      "suitability": "For all lip types"
+    },
+    "story_section": {
+      "heading": "Pure ritual, honest formulation.",
+      "description": "Castor oil is considered as gold standard base for natural lipsticks it provides natural shine and good for lip health and colour performance. Since this is chemical free natural mineral based pigments are used and vitamin e oil acts as natural preservative.",
+      "claim": "Dermatologically Tested Claim",
+      "main_benefits": [
+        "Chemical free, Natural colours",
+        "Provides moisture to lips and provides radiance too"
+      ],
+      "benefits_list": [
+        "Smooth texture, provides hydration",
+        "Comforting balm like feel",
+        "No chemicals and Zero animal extracts are used"
+      ],
+      "suitability": [
+        "For all lip types"
+      ],
+      "safety_warnings": [
+        "Patch test mandatory for natural products too"
+      ],
+      "storage_instructions": [
+        "Store in dry place"
+      ],
+      "how_to_use": [
+        "Apply required amount of lipstick whenever required. Good for daily usage"
+      ]
+    }
+  },
+  {
+    "product_id": "skin001",
+    "catcode": "cat002",
+    "name": "Face Brightening Night Moisturizer using Rosehip seed oil",
+    "image": "rosehip-night-moisturizer.png",
+    "hero_section": {
+      "collection": "Heritage Collection",
+      "title": "Face Brightening Night Moisturizer using Rosehip seed oil",
+      "short_description": "This is a 100% natural moisturizer formulated with botanical oils, butter and plant extracts. Vitamin e oil acts a natural preservative for this product.",
+      "rating": "4.8",
+      "reviews": "214 reviews",
+      "net_quantity": "30 gms",
+      "hero_ingredients": [
+        "Rosehip Seed Oil",
+        "Almond oil",
+        "Jojoba oil"
+      ],
+      "suitability": "For dry skin"
+    },
+    "story_section": {
+      "heading": "Pure ritual, honest formulation.",
+      "description": "This is a 100% natural moisturizer formulated with botanical oils, butter and plant extracts. Vitamin e oil acts a natural preservative for this product.",
+      "claim": "Dermatologically Tested Claim",
+      "main_benefits": [
+        "Natural oils provides dryness control",
+        "Anti aging, Brightening"
+      ],
+      "benefits_list": [
+        "Rosehip oil neutralise free radicals",
+        "Slowing down the signs of premature aging",
+        "High in antioxidants",
+        "Provided Natural result",
+        "No endocrine disruptors are used"
+      ],
+      "suitability": [
+        "For dry skin"
+      ],
+      "safety_warnings": [
+        "Patch test mandatory even for natural products"
+      ],
+      "storage_instructions": [
+        "Keep in an air tight container in room temperature"
+      ],
+      "how_to_use": [
+        "This is a night cream. Take a pea sized of cream and apply all over the face evenly."
+      ]
+    }
+  },
+  {
+    "product_id": "skin002",
+    "catcode": "cat002",
+    "name": "Saffron Skin Brightening Night Cream",
+    "image": "saffron-night-cream.png",
+    "hero_section": {
+      "collection": "Heritage Collection",
+      "title": "Saffron Skin Brightening Night Cream",
+      "short_description": "Saffron, Often called Red Gold, has been a cornerstone of ancient beauty rituals for centuries. When infused into a skin-brightening cream, it acts as a powerful antioxidant and natural \"Glow Booster\" that works on skin tone and texture simultaneously.",
+      "rating": "4.8",
+      "reviews": "214 reviews",
+      "net_quantity": "30 gms",
+      "hero_ingredients": [
+        "Fresh Saffron",
+        "Saffron oil",
+        "Saffron extract",
+        "Glycerine",
+        "Vitamin E oil"
+      ],
+      "suitability": "For dry skin"
+    },
+    "story_section": {
+      "heading": "Pure ritual, honest formulation.",
+      "description": "This is a 100% natural moisturizer formulated with botanical oils, butter and plant extracts. Vitamin e oil acts a natural preservative for this product.",
+      "claim": "Dermatologically Tested Claim",
+      "main_benefits": [
+        "Natural oils provides dryness control",
+        "Anti aging, Brightening"
+      ],
+      "benefits_list": [
+        "Natural Pigmentation Correction",
+        "Fades dark spots",
+        "Evens skin tone acts as the natural blush"
+      ],
+      "suitability": [
+        "For dry skin",
+        "Tan removal"
+      ],
+      "safety_warnings": [
+        "Do a patch test before using"
+      ],
+      "storage_instructions": [
+        "Keep in dry place"
+      ],
+      "how_to_use": [
+        "This is a night cream. Take a pea sized of cream and apply all over the face evenly."
+      ]
+    }
+  },
+  {
+    "product_id": "hair001",
+    "catcode": "cat003",
+    "name": "Herbal Hair dye-1",
+    "image": "herbal-hair-dye-1.png",
+    "hero_section": {
+      "collection": "Heritage Collection",
+      "title": "Herbal Hair dye-1",
+      "short_description": "This is a plant based formulation that use natural pigment from leaves and roots to colour hair without use of synthetic chemicals. This also provides deep conditioning effect.",
+      "rating": "4.8",
+      "reviews": "214 reviews",
+      "net_quantity": "100gms",
+      "hero_ingredients": [
+        "Henna Powder",
+        "Beetroot Powder"
+      ],
+      "suitability": "All Hair types"
+    },
+    "story_section": {
+      "heading": "Pure ritual, honest formulation.",
+      "description": "This is a plant based formulation that use natural pigment from leaves and roots to colour hair without use of synthetic chemicals. This also provides deep conditioning effect.",
+      "claim": "Dermatologically Tested Claim",
+      "main_benefits": [
+        "Zero Harsh chemicals",
+        "Completely free from Ammonia and PPD"
+      ],
+      "benefits_list": [
+        "Zero Harsh Chemicals",
+        "Scalp Therapeutic properties",
+        "Controlling dandruff",
+        "Provided Natural result",
+        "Improves Hair texture and Strength"
+      ],
+      "suitability": [
+        "For all Hair type",
+        "Premature greying"
+      ],
+      "safety_warnings": [
+        "Even though it is a natural product, Patch test is mandatory"
+      ],
+      "storage_instructions": [
+        "Keep in an air tight container in room temperature"
+      ],
+      "how_to_use": [
+        "Take the required amount of powder in a bowl. Add 1 spoon of curd, Mix with enough water and keep it overnight, Next day morning, apply in hair and leave it for one hour, Rinse well without Shampoo, Visible results will be seen during repeated usage. Hair will be natural black and will stay upto 10 days."
+      ]
+    }
+  },
+  {
+    "product_id": "hair002",
+    "catcode": "cat003",
+    "name": "Herbal Hair dye-2",
+    "image": "herbal-hair-dye-2.png",
+    "hero_section": {
+      "collection": "Heritage Collection",
+      "title": "Herbal Hair dye-2",
+      "short_description": "This is a plant based formulation that use natural pigment from leaves and roots to colour hair without use of synthetic chemicals. This also provides deep conditioning effect.",
+      "rating": "4.8",
+      "reviews": "214 reviews",
+      "net_quantity": "100gms",
+      "hero_ingredients": [
+        "Indigo Powder"
+      ],
+      "suitability": "All Hair types"
+    },
+    "story_section": {
+      "heading": "Pure ritual, honest formulation.",
+      "description": "This is a plant based formulation that use natural pigment from leaves and roots to colour hair without use of synthetic chemicals. This also provides deep conditioning effect.",
+      "claim": "Dermatologically Tested Claim",
+      "main_benefits": [
+        "Zero Harsh chemicals",
+        "Completely free from Ammonia and PPD"
+      ],
+      "benefits_list": [
+        "Zero Harsh Chemicals",
+        "Scalp Therapeutic properties",
+        "Controlling dandruff",
+        "Provided Natural result",
+        "Improves Hair texture and Strength"
+      ],
+      "suitability": [
+        "For all Hair type",
+        "Premature greying"
+      ],
+      "safety_warnings": [
+        "Even though it is a natural product, Patch test is mandatory"
+      ],
+      "storage_instructions": [
+        "Keep in an air tight container in room temperature"
+      ],
+      "how_to_use": [
+        "Apply step 2 pack on the next day of applying Step 1, Take the required amount of powder and mix in boiling water and leave it overnight so that the colour has to turn out to blue, Next day morning apply in hair and and leave it for one hour and rinse well without shampoo. Visible results will be seen during repeated usage. Hair will be natural black and will stay upto 10 days."
+      ]
+    }
+  },
+  {
+    "product_id": "hair003",
+    "catcode": "cat003",
+    "name": "Herbal Hair Mask Powder",
+    "image": "herbal-hair-mask.png",
+    "hero_section": {
+      "collection": "Heritage Collection",
+      "title": "Herbal Hair Mask Powder",
+      "short_description": "This is a natural herbal powder derived from herbs which provides good conditioning effect in hair.",
+      "rating": "4.8",
+      "reviews": "214 reviews",
+      "net_quantity": "100gms",
+      "hero_ingredients": [
+        "Aria Powder",
+        "Bringhraj Powder",
+        "Rose petal Powder"
+      ],
+      "suitability": "All Hair types"
+    },
+    "story_section": {
+      "heading": "Pure ritual, honest formulation.",
+      "description": "This is a natural herbal powder derived from herbs which provides good conditioning effect in hair.",
+      "claim": "Dermatologically Tested Claim",
+      "main_benefits": [
+        "Acts as a natural conditioner",
+        "Controls frizz without any chemicals"
+      ],
+      "benefits_list": [
+        "Reduces dandruff",
+        "Controls grey hairs",
+        "Continuous usage",
+        "It controls hair fall"
+      ],
+      "suitability": [
+        "For all Hair type",
+        "Premature greying"
+      ],
+      "safety_warnings": [
+        "Even though it is a natural product, Patch test is mandatory"
+      ],
+      "storage_instructions": [
+        "Store in room temperature in air tight container or zip lock pouch"
+      ],
+      "how_to_use": [
+        "After shampooing the hair, customers can apply this pack either on same day or next day, Take the required amount of water and mix it in normal water and make a fine paste, Apply in hair and leave it for 30 mins to 40 mins, Rinse the hair well with water without shampoo."
+      ]
+    }
+  },
+  {
+    "product_id": "hair004",
+    "catcode": "cat003",
+    "name": "Herbal Hair Oil Infused with Moringa Leaves and Rosemary Oil",
+    "image": "moringa-rosemary-hair-oil.png",
+    "hero_section": {
+      "collection": "Heritage Collection",
+      "title": "Herbal Hair Oil Infused with Moringa Leaves and Rosemary Oil",
+      "short_description": "Moringa leaves, rose petals and curry leaves are added to cold pressed coconut oil and heated in low flame to enrich the properties for herbs and and leaves. Oil will be infused with rosemary EO which promotes hair growth and controls hair fall",
+      "rating": "4.8",
+      "reviews": "214 reviews",
+      "net_quantity": [
+        "200 ml",
+        "100 ml"
+      ],
+      "hero_ingredients": [
+        "Cold Pressed Coconut Oil",
+        "Moringa leaves",
+        "Rose Petal",
+        "Rosemary EO"
+      ],
+      "suitability": "All Hair types"
+    },
+    "story_section": {
+      "heading": "Pure ritual, honest formulation.",
+      "description": "This is a natural herbal powder derived from herbs which provides good conditioning effect in hair.",
+      "claim": "Dermatologically Tested Claim",
+      "main_benefits": [
+        "Moring leaves acts a powerhouse of hair heat, it is packed with Vitamin A and Zinc which promotes hair growth, Rosemary essential oil helps to soothes the scalp"
+      ],
+      "benefits_list": [
+        "Potent Scalp Stimulant",
+        "Intense Hydration",
+        "Scalp Soothing and Anti dandruff",
+        "Since it is loaded with Vitamin C and E natural pollution shield and very suitable to protect your hair from urban pollution"
+      ],
+      "suitability": [
+        "All Hair types"
+      ],
+      "safety_warnings": [
+        "Patch test mandatory even for natural products"
+      ],
+      "storage_instructions": [
+        "Keep in dry place"
+      ],
+      "how_to_use": [
+        "Take few drops of oil and gently massage in scalp and hair, Apply small amount of Oil and apply for large number of days. Deep oiling should be avoided"
+      ]
+    }
+  },
+  {
+    "product_id": "hair005",
+    "catcode": "cat003",
+    "name": "Hibiscus Shampoo",
+    "image": "hibiscus-shampoo.png",
+    "hero_section": {
+      "collection": "Heritage Collection",
+      "title": "Hibiscus Shampoo",
+      "short_description": "Hibiscus shampoo is a nutrient-dense hair cleanser designed to stimulate hair growth and restore natural shine. By harnessing the power of hibiscus flower, this shampoo works to strengthen the hair's keratin structure thereby reducing breakage and thinning",
+      "rating": "4.8",
+      "reviews": "214 reviews",
+      "net_quantity": [
+        "200 ml",
+        "100 ml"
+      ],
+      "hero_ingredients": [
+        "Hibiscus flower extract",
+        "Aloe Vera",
+        "Panthenol(Pro Vitamin B5)",
+        "Coco glucoside"
+      ],
+      "suitability": "Frizzy hair"
+    },
+    "story_section": {
+      "heading": "Pure ritual, honest formulation.",
+      "description": "Hibiscus shampoo is a nutrient-dense hair cleanser designed to stimulate hair growth and restore natural shine. By harnessing the power of hibiscus flower, this shampoo works to strengthen the hair's keratin structure thereby reducing breakage and thinning",
+      "claim": "Dermatologically Tested Claim",
+      "main_benefits": [
+        "Cleanses",
+        "Nourishes and promotes hair growth"
+      ],
+      "benefits_list": [
+        "Hair fall control",
+        "Scalp health",
+        "Intense conditioning",
+        "Chemical free (Sulfate and Paraben free)"
+      ],
+      "suitability": [
+        "Suitable for Frizzy hair",
+        "Damaged hair"
+      ],
+      "safety_warnings": [
+        "Patch test mandatory even for natural products"
+      ],
+      "storage_instructions": [
+        "Keep in a dry place"
+      ],
+      "how_to_use": [
+        "Dilute required amount of shampoo in water, apply in hair and rinse well"
+      ]
+    }
+  },
+  {
+    "product_id": "hair007",
+    "catcode": "cat003",
+    "name": "Coconut Milk Shampoo",
+    "image": "coconut-milk-shampoo.png",
+    "hero_section": {
+      "collection": "Heritage Collection",
+      "title": "Coconut Milk Shampoo",
+      "short_description": "Coconut milk shampoo is a nutrient rich cleanser specifically formulated to restore moisture and repair damaged hair.",
+      "rating": "4.8",
+      "reviews": "214 reviews",
+      "net_quantity": [
+        "200 ml",
+        "100 ml"
+      ],
+      "hero_ingredients": [
+        "Coconut infuse milk",
+        "Fresh coconut milk",
+        "Vegetable glycerine"
+      ],
+      "suitability": "All hair types"
+    },
+    "story_section": {
+      "heading": "Pure ritual, honest formulation.",
+      "description": "Coconut milk shampoo is a nutrient rich cleanser specifically formulated to restore moisture and repair damaged hair.",
+      "claim": "Dermatologically Tested Claim",
+      "main_benefits": [
+        "Protein Rich Strengthening",
+        "Scalp Soothing and Cooling, Nourishes hair"
+      ],
+      "benefits_list": [
+        "Free from Sulphate and Paraben",
+        "Free from Sodium Benzoate and Potassium Soarbate",
+        "Intense Hydration, Protein strengthening",
+        "Scalp Nourishment"
+      ],
+      "suitability": [
+        "Better for daily use",
+        "All hair types"
+      ],
+      "safety_warnings": [
+        "Patch test mandatory even for natural products"
+      ],
+      "storage_instructions": [
+        "Keep in a dry place"
+      ],
+      "how_to_use": [
+        "Dilute required amount of shampoo in water, apply in hair and rinse well"
+      ]
+    }
+  },
+  {
+    "product_id": "hair008",
+    "catcode": "cat003",
+    "name": "Shikkakaai Shampoo Paste",
+    "image": "shikkakai-shampoo-paste.png",
+    "hero_section": {
+      "collection": "Heritage Collection",
+      "title": "Shikkakaai Shampoo Paste",
+      "short_description": "Shikkakai has been used in India for thousands of years as a natural alternative to soap, unlike modern shampoos that are liquid based, a shikkakai shampoo paste is a concentrated, gritty, and incredibly potent version that preserves the natural saponins without excessive processing.",
+      "rating": "4.8",
+      "reviews": "214 reviews",
+      "net_quantity": "100 ml",
+      "hero_ingredients": [
+        "Shikkakai",
+        "Arita",
+        "Green gram",
+        "Fenugreek",
+        "Cocoglucoside"
+      ],
+      "suitability": "All hair types"
+    },
+    "story_section": {
+      "heading": "Pure ritual, honest formulation.",
+      "description": "Shikkakai has been used in India for thousands of years as a natural alternative to soap, unlike modern shampoos that are liquid based, a shikkakai shampoo paste is a concentrated, gritty, and incredibly potent version that preserves the natural saponins without excessive processing.",
+      "claim": "Dermatologically Tested Claim",
+      "main_benefits": [
+        "Herbal Scalp Detox",
+        "Root strengthening and Growth, Collagen boost"
+      ],
+      "benefits_list": [
+        "Deep cleansing without stripping",
+        "Root strengthening and growth",
+        "Natural alternate to chemical shampoos"
+      ],
+      "suitability": [
+        "All hair types"
+      ],
+      "safety_warnings": [
+        "Patch test mandatory"
+      ],
+      "storage_instructions": [
+        "Keep in a dry place"
+      ],
+      "how_to_use": [
+        "Dilute required amount of shampoo in water, apply in hair and rinse well"
+      ]
+    }
+  },
+  {
+    "product_id": "hair009",
+    "catcode": "cat003",
+    "name": "Avocado Argan Oil Conditioner",
+    "image": "avocado-argan-conditioner.png",
+    "hero_section": {
+      "collection": "Heritage Collection",
+      "title": "Avocado Argan Oil Conditioner",
+      "short_description": "Argan oil is high in Vitamin E and antioxidants, which plays a major role in Cuticle smoothening and frizz elimination and Avocado oil is rich in monounsaturated fatty acids which are small enough to enter the hair and provides intense softening",
+      "rating": "4.8",
+      "reviews": "214 reviews",
+      "net_quantity": "100 ml",
+      "hero_ingredients": [
+        "Avocado and Argan Oil",
+        "Vitamin E oil",
+        "Vitamin Wax",
+        "Veg Glycerine"
+      ],
+      "suitability": "For dry and frizzy hair"
+    },
+    "story_section": {
+      "heading": "Pure ritual, honest formulation.",
+      "description": "Argan oil is high in Vitamin E and antioxidants, which plays a major role in Cuticle smoothening and frizz elimination and Avocado oil is rich in monounsaturated fatty acids which are small enough to enter the hair and provides intense softening.",
+      "claim": "Dermatologically Tested Claim",
+      "main_benefits": [
+        "Intense Softening",
+        "Instant Hydration of Hair, Frizz Elimination"
+      ],
+      "benefits_list": [
+        "Combination is a nutrient bomb",
+        "Delivering Vitamins A, B, D and E which directly enters hair strands",
+        "Support Scalp soothing and provides amino acid support therby enhancing vitamin delivery"
+      ],
+      "suitability": [
+        "All hair types"
+      ],
+      "safety_warnings": [
+        "Patch test mandatory"
+      ],
+      "storage_instructions": [
+        "Store in dry place"
+      ],
+      "how_to_use": [
+        "After rinsing out your shampoo, take the required amount of your conditioner and apply from the tips of your hair to the end. Leave it for 5 mins and rinse well with water."
+      ]
+    }
+  },
+  {
+    "product_id": "hair010",
+    "catcode": "cat003",
+    "name": "Herbal Hair growth Serum",
+    "image": "herbal-hair-serum.png",
+    "hero_section": {
+      "collection": "Heritage Collection",
+      "title": "Herbal Hair growth Serum",
+      "short_description": "This is an Oil based herbal hair growth serum with out any preservatives and it can be used for age above 13Yrs.",
+      "rating": "4.8",
+      "reviews": "214 reviews",
+      "net_quantity": "30ml",
+      "hero_ingredients": [
+        "Aria oil",
+        "Hibiscus Oil",
+        "Rosemary essential oil",
+        "Bringhraj oil"
+      ],
+      "suitability": "For all hair types"
+    },
+    "story_section": {
+      "heading": "Pure ritual, honest formulation.",
+      "description": "This is an Oil based herbal hair growth serum with out any preservatives and it can be used for age above 13Yrs.",
+      "claim": "Dermatologically Tested Claim",
+      "main_benefits": [
+        "Stimulates Hair growth",
+        "Strengthens Hair follicles, Reduces Hair fall"
+      ],
+      "benefits_list": [
+        "Promotes hair growth",
+        "Essential oil helps to relax your mind",
+        "Herbs infused oil helps your hair free from toxins and chemicals"
+      ],
+      "suitability": [
+        "All hair types"
+      ],
+      "safety_warnings": [
+        "Patch test mandatory, this is only a support system and it will not provide instant growth and sometimes hair fall is related to medical conditions, Hormonal imbalance and nutritional deficiency too so food intake and physical activity"
+      ],
+      "storage_instructions": [
+        "Store in dry place"
+      ],
+      "how_to_use": [
+        "After rinsing out your shampoo, take the required amount of your conditioner and apply from the tips of your hair to the end. Leave it for 5 mins and rinse well with water."
+      ]
+    }
+  },
+  {
+    "product_id": "hygiene001",
+    "catcode": "cat004",
+    "name": "Sanitary Pads made with Tapioca Fiber – 100% Plant based",
+    "image": "tapioca-sanitary-pads.png",
+    "hero_section": {
+      "collection": "Heritage Collection",
+      "title": "Sanitary Pads made with Tapioca Fiber – 100% Plant based",
+      "short_description": "Sanitary Pads made with Tapioca Fiber are a 100% plant-based feminine hygiene solution created for soft, breathable, and eco-conscious protection. Designed for sensitive skin, they deliver reliable absorption with all-day comfort.",
+      "rating": "4.8",
+      "reviews": "214 reviews",
+      "sizes": [
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
+      "hero_ingredients": [
+        "Tapioca Fiber",
+        "Non woven cotton sheet"
+      ],
+      "suitability": "All Skin types"
+    },
+    "story_section": {
+      "heading": "Pure ritual, honest formulation.",
+      "description": "Sanitary Pads made with Tapioca Fiber are a 100% plant-based feminine hygiene solution created for soft, breathable, and eco-conscious protection. Designed for sensitive skin, they deliver reliable absorption with all-day comfort.",
+      "claim": "Dermatologically Tested Claim",
+      "main_benefits": [
+        "Eco Friendly, Bio degradable, Plant base",
+        "Good for sensitive skin, Full coverage, Good absorbtion"
+      ],
+      "benefits_list": [
+        "Gentle on skin",
+        "Reduces rashes and irritation",
+        "Breathable all day comfort",
+        "Free from Harmful chemicals and toxins",
+        "Eco conscious choice, Safe for sensitive skin, Perfect for travel"
+      ],
+      "hero_ingredients": [
+        "Tapioca Fiber",
+        "Non woven cotton sheet"
+      ],
+      "safety_warnings": [
+        "Store in a cool and dry place.",
+        "Dispose responsibly after use.",
+        "For external use only."
+      ],
+      "suitability": [
+        "All Skin types"
+      ],
+      "net_quantity": [
+        "XL - 280 mm (7 pads per pack)",
+        "XXL - 300 mm (7 pads per pack)",
+        "XXXL - 330 mm (7 pads per pack)"
+      ]
+    }
+  }
+]

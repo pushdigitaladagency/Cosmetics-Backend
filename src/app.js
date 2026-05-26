@@ -25,7 +25,7 @@ app.use(express.json({ limit: '10kb' }));
 app.use(express.urlencoded({ extended: true, limit: '10kb' }));
 
 // API Routes
-app.use('/api/v1', apiRouter);
+app.use('/', apiRouter);
 
 // Handle undefined routes
 app.use(notFound);
