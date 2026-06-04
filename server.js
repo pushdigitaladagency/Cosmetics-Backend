@@ -1,6 +1,7 @@
-import dotenv from 'dotenv';
-// Load environment variables
-dotenv.config();
+// Load environment variables before any other import is evaluated.
+// (ESM evaluates imports before module-body code, so dotenv must run as a
+// side-effect import here — db.js reads process.env at import time.)
+import 'dotenv/config';
 
 // Handle uncaught exceptions
 process.on('uncaughtException', (err) => {
@@ -10,22 +11,31 @@ process.on('uncaughtException', (err) => {
 });
 
 import app from './src/app.js';
-import connectDB from './src/config/db.js';
-
-// Connect to MongoDB
-connectDB();
+import { connectDB } from './src/config/db.js';
 
 const PORT = process.env.PORT || 4000;
 
-const server = app.listen(PORT, () => {
-  console.log(`Server running in ${process.env.NODE_ENV || 'development'} mode on port ${PORT}`);
-});
+let server;
+
+// Connect to the database before accepting traffic
+connectDB()
+  .then(() => {
+    server = app.listen(PORT, () => {
+      console.log(`Server running in ${process.env.NODE_ENV || 'development'} mode on port ${PORT}`);
+    });
+  })
+  .catch((err) => {
+    console.error(`Database connection error: ${err.message}`);
+    process.exit(1);
+  });
 
 // Handle unhandled rejections
 process.on('unhandledRejection', (err) => {
   console.error('UNHANDLED REJECTION! 💥 Shutting down gracefully...');
   console.error(err.name, err.message);
-  server.close(() => {
+  if (server) {
+    server.close(() => process.exit(1));
+  } else {
     process.exit(1);
-  });
+  }
 });

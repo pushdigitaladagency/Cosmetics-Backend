@@ -27,4 +27,5 @@ const categorySchema = new mongoose.Schema({
     timestamps: true
 });
 
-export default mongoose.model('Category', categorySchema);
+// Third arg pins the exact Atlas collection name (note: misspelled "Categroies" in the DB).
+export default mongoose.model('Category', categorySchema, 'CosmeticsCategroies');

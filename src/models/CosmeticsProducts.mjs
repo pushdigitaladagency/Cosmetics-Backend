@@ -75,4 +75,5 @@ const productSchema = new mongoose.Schema({
     timestamps: true
 });
 
-export default mongoose.model('Product', productSchema);
+// Third arg pins the exact Atlas collection name.
+export default mongoose.model('Product', productSchema, 'CosmeticsProducts');

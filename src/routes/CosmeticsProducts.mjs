@@ -3,7 +3,7 @@ import {
   getProducts,
   getProduct,
   getProductsByCategory
-} from '../controllers/productController.mjs';
+} from '../controllers/cosmeticsProductsController.mjs';
 
 const router = express.Router();
 

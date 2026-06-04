@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Rice & Malt",
+    "slug": "rice-and-malt",
+    "description": "Traditional rice-based health drink mixes and natural malt beverages for daily strength and wellness.",
+    "image": "rice-and-malt.jpg",
+    "isActive": true,
+    "sortOrder": 1
+  },
+  {
+    "name": "Flours",
+    "slug": "flours",
+    "description": "Stone-milled heritage rice flours for puttu, idiyappam, kozhukattai and traditional kali.",
+    "image": "flours.jpg",
+    "isActive": true,
+    "sortOrder": 2
+  },
+  {
+    "name": "Soup & Health Mix",
+    "slug": "soup-and-health-mix",
+    "description": "Traditional nutritious soup mixes blended with native rice, pulses and warming spices.",
+    "image": "soup-and-health-mix.jpg",
+    "isActive": true,
+    "sortOrder": 3
+  },
+  {
+    "name": "Cookies",
+    "slug": "cookies",
+    "description": "Crispy, naturally nutritious cookies made with traditional rice and natural ingredients — no maida, no white sugar, no preservatives.",
+    "image": "cookies.jpg",
+    "isActive": true,
+    "sortOrder": 4
+  },
+  {
+    "name": "Vadam & Vathal",
+    "slug": "vadam-and-vathal",
+    "description": "Sun-dried traditional vadam and vathal made the authentic homemade way for crispy meal accompaniments.",
+    "image": "vadam-and-vathal.jpg",
+    "isActive": true,
+    "sortOrder": 5
+  }
+]

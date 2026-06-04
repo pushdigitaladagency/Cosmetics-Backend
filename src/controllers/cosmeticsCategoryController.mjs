@@ -1,4 +1,4 @@
-import Category from '../models/Category.mjs';
+import Category from '../models/CosmeticsCategory.mjs';
 
 // ─── GET /api/categories ─────────────────────────────────────────
 export const getCategories = async (req, res) => {

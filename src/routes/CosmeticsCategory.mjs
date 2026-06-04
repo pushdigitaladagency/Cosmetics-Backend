@@ -2,7 +2,7 @@ import express from 'express';
 import {
   getCategories,
   getCategory
-} from '../controllers/categoryController.mjs';
+} from '../controllers/cosmeticsCategoryController.mjs';
 
 const router = express.Router();
 

@@ -1,4 +1,4 @@
-import Product from '../models/Product.mjs';
+import Product from '../models/CosmeticsProducts.mjs';
 
 // ─── GET /api/products ───────────────────────────────────────────
 export const getProducts = async (req, res) => {
