@@ -11,10 +11,10 @@ export const getCategories = async (req, res) => {
   }
 };
 
-// ─── GET /api/categories/:catcode ───────────────────────────────
+// ─── GET /api/categories/:slug ──────────────────────────────────
 export const getCategory = async (req, res) => {
   try {
-    const category = await Category.findOne({ catcode: req.params.catcode });
+    const category = await Category.findOne({ slug: req.params.slug });
     if (!category) {
       return res.status(404).json({ status: 'fail', message: 'Category not found' });
     }

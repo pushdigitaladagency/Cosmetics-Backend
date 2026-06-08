@@ -7,13 +7,13 @@ import {
 
 const router = express.Router();
 
-// GET /api/products         → all products
+// GET /api/products              → all products
 router.get('/products', getProducts);
 
-// GET /api/products/:id     → single product by product_id
-router.get('/products/:product_id', getProduct);
+// GET /api/products/:slug        → single product by slug
+router.get('/products/:slug', getProduct);
 
-// GET /api/categories/:catcode/products → products by category
-router.get('/categories/:catcode/products', getProductsByCategory);
+// GET /api/categories/:slug/products → products by category slug
+router.get('/categories/:slug/products', getProductsByCategory);
 
-export default router;
+export default router;

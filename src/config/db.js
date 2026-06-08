@@ -1,6 +1,6 @@
 import mongoose from 'mongoose';
 
-// Single database (cosmeticsDB) — all collections (cosmetics & grains) live here,
+
 // so one default connection via mongoose.connect() is all we need.
 const connectDB = async () => {
   try {

@@ -5,7 +5,7 @@ import 'dotenv/config';
 
 // Handle uncaught exceptions
 process.on('uncaughtException', (err) => {
-  console.error('UNCAUGHT EXCEPTION! 💥 Shutting down...');
+  console.error('UNCAUGHT EXCEPTION!  Shutting down...');
   console.error(err.name, err.message, err.stack);
   process.exit(1);
 });

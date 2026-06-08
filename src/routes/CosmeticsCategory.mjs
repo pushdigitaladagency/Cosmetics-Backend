@@ -10,7 +10,7 @@ const router = express.Router();
 router.get('/categories', getCategories);
 
 
-// GET /api/categories/:catcode → single category
-router.get('/categories/:catcode', getCategory);
+// GET /api/categories/:slug → single category by slug
+router.get('/categories/:slug', getCategory);
 
 export default router;

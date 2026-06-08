@@ -9,8 +9,20 @@ const productSchema = new mongoose.Schema({
     },
 
     catcode: {
+        type: String
+    },
+
+    slug: {
         type: String,
-        required: true
+        required: true,
+        unique: true,
+        trim: true
+    },
+
+    category_slug: {
+        type: String,
+        required: true,
+        trim: true
     },
 
     name: {
@@ -21,6 +33,11 @@ const productSchema = new mongoose.Schema({
 
     image: {
         type: String
+    },
+
+    variants: {
+        type: [String],
+        default: []
     },
 
     hero_section: {
@@ -69,7 +86,16 @@ const productSchema = new mongoose.Schema({
         net_quantity: [String],
 
         hero_ingredients: [String]
-    }
+    },
+
+    related_products: [
+        {
+            product_id: String,
+            name: String,
+            image: String,
+            slug: String
+        }
+    ]
 
 }, {
     timestamps: true
