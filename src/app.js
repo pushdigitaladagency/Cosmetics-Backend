@@ -18,7 +18,10 @@ if (process.env.NODE_ENV === 'development') {
 }
 
 // Enable CORS
-app.use(cors());
+app.use(cors({
+  origin: ['https://organicheritage.store', 'https://www.organicheritage.store']
+}));
+;
 
 // Body parser, reading data from body into req.body
 app.use(express.json({ limit: '10kb' }));
